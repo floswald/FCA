@@ -2,7 +2,7 @@
 
 Materials for the FCA workshop.
 
-## How to use
+## How To Use This
 
 1. You can follow most of what we do in your browser by going to www.juliabox.com. We have julia version 0.6.2 there.
 2. If you want to follow along with me on the just released version 1.0 on your computer, you need to download julia and install a couple of packages.
