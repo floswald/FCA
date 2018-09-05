@@ -17,7 +17,7 @@
 @info("I'll install a couple of packages now")
 
 using Pkg
-Pkg.add.(["BenchmarkTools","Plots","GR","StatPlots","PyCall","Conda","IJulia","Query","CSV","GLM","DataVoyager"])
+Pkg.add.(["BenchmarkTools","Plots","GR","StatPlots","PyCall","Conda","IJulia","Query","CSV","GLM","Clustering"])
 Pkg.add("RCall")
 
 
